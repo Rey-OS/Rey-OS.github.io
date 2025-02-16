@@ -1,7 +1,1 @@
-Function TextToColorWave(Wave/T InputWave)
-    
-    Variable waveSize = DimSize(InputWave, 0)
-    Make/D/O/N=(waveSize) ColorWaveUnscaled = StringCRC(0, InputWave[p])
-    Make/D/O/N=(waveSize) ColorWave = ColorWaveUnscaled / WaveMax(ColorWaveUnscaled)
-    
-End
+<button> <a href = https://www.youtube.com/watch?v=xvFZjo5PgG0> butao</a> </button>
